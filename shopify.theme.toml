@@ -1,0 +1,9 @@
+[environments.lwt-1]
+store = "lwt-liquid"
+store-password = "123"
+theme-editor-sync = true
+
+[environments.lwt-2]
+store = "lwt-theme-2"
+store-password = "123"
+theme-editor-sync = true
